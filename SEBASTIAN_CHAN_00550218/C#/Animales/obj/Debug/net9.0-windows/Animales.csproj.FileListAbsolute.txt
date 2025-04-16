@@ -1,0 +1,14 @@
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.AssemblyInfoInputs.cache
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.AssemblyInfo.cs
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\bin\Debug\net9.0-windows\Animales.exe
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\bin\Debug\net9.0-windows\Animales.deps.json
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\bin\Debug\net9.0-windows\Animales.runtimeconfig.json
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\bin\Debug\net9.0-windows\Animales.dll
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\bin\Debug\net9.0-windows\Animales.pdb
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.dll
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\refint\Animales.dll
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.pdb
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\Animales.genruntimeconfig.cache
+C:\Users\sebas\Personal\UNI\Clases\Sem2\LOO\C#\ProyectosSuperclass\Animales\obj\Debug\net9.0-windows\ref\Animales.dll
